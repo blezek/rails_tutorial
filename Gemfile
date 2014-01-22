@@ -44,3 +44,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Make ruby beautiful
+gem 'htmlbeautifier'
